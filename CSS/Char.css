@@ -1,0 +1,43 @@
+body{background-color: red;}
+
+header{background-color: blue;
+text-align: center;
+padding-top: 35px; 
+padding-bottom: 35px;
+font-family: Helvetica,Arial,sans-serif;
+}
+
+h1,h2{
+	font-family: 'Press Start 2P', cursive;
+}
+
+header h1{color: white;
+		/*font-family: Helvetica,Arial,sans-serif;*/
+
+		font-size: 40px;
+}
+
+header img{
+border-radius: 280px;
+    width: 600px;
+    border: 10px solid burlywood;
+}
+
+
+
+main{
+	max-width: 800px;
+}
+
+h2{font-size: 35px;
+color: teal;}
+
+a{color: teal;}
+
+a:hover{
+	color: purple;
+}
+
+footer{background-color: blue;
+text-align: center;
+}
